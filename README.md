@@ -1,7 +1,7 @@
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=GabrielCardosoLima&show_icons=true&custom_title=Gabriel_Cardoso&title_color=563d7c&bg_color=00000000&text_color=ffff&count_private=true&icon_color=ffff&border_color=563d7c" alt="Grafico de Postagens"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCardosoLima&layout=compact&title_color=563d7c&bg_color=00000000&text_color=ffff&count_private=true&icon_color=563d7c&border_color=563d7c&show_icons=true&custom_title=Linguagens mais usadas" alt="Grafico de Linguagens"/>
-    <img src="https://discord.c99.nl/widget/theme-4/278317055478857728.png"/>
+    <img src="https://discord.c99.nl/widget/theme-3/278317055478857728.png"/>
     <hr>
 <h3>📥 IDES em uso :</h3>
 <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>

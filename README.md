@@ -28,8 +28,6 @@
 ## ⚙️ &nbsp;Analises Github
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=GabrielCardosoLima&show_icons=true&custom_title=Gabriel_Cardoso&title_color=563d7c&bg_color=00000000&text_color=ffff&count_private=true&icon_color=ffff&border_color=563d7c" alt="Grafico de Postagens"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCardosoLima&layout=compact&title_color=563d7c&bg_color=00000000&text_color=ffff&count_private=true&icon_color=563d7c&border_color=563d7c&show_icons=true&custom_title=Linguagens mais usadas" alt="Grafico de Linguagens"/>
 </p>
 
 ## 📱 &nbsp;Redes Sociais

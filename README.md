@@ -25,11 +25,6 @@
 ![SQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=sqlite)&nbsp;
 <br><br>
 
-## ⚙️ &nbsp;Analises Github
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielCardosoLima&show_icons=true&custom_title=Gabriel_Cardoso&title_color=563d7c&bg_color=00000000&text_color=ffff&count_private=true&icon_color=ffff&border_color=563d7c" alt="Grafico de Postagens"/>
-</p>
-
 ## 📱 &nbsp;Redes Sociais
 <p align="left" style="background:yellow">
 <a href="https://discord.gg/exX6rNenXq"> <img align="center" src="https://img.shields.io/badge/-Gabriel Cardoso-05122A?style=flat&logo=discord" alt="discord"/></a>

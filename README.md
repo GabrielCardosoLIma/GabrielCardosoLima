@@ -2,7 +2,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,Eu sou Gabriel Cardoso</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielCardosoLIma&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Apenas um aprendiz com 8 meses de programação. 
+- 🔥 Um jovem apaixonado por tecnologia com um pouco mais de um ano de experiência. 
 
 - 🔭 Aluno do Senac Campinas https://www.sp.senac.br/senac-campinas.
 

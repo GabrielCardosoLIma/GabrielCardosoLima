@@ -28,11 +28,5 @@
 ## 📱 &nbsp;Redes Sociais
 <p align="left" style="background:yellow">
 <a href="https://discord.gg/exX6rNenXq"> <img align="center" src="https://img.shields.io/badge/-Gabriel Cardoso-05122A?style=flat&logo=discord" alt="discord"/></a>
-<a href="https://www.instagram.com/bielcardoso_04/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Gabriel Cardoso-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.facebook.com/gabrielcardoso.lima.1" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Gabriel Cardoso-05122A?style=flat&logo=facebook" alt="facebook"/>
-</a>
 </p>
 <img src="https://discord.c99.nl/widget/theme-4/278317055478857728.png"/>

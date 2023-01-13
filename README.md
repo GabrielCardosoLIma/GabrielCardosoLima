@@ -4,7 +4,7 @@
 
 - 🔥 Um jovem apaixonado por tecnologia com um pouco mais de um ano de experiência. 
 
-- 🔭 Aluno do Senac Campinas https://www.sp.senac.br/senac-campinas.
+- 🔭 Em constância evolução.
 
 - ⚡ **Não é a linguagem de programação que define o programador, mas sim sua lógica. 😜**
 

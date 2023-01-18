@@ -1,4 +1,3 @@
-<img align="right" height="500px" src="https://cdn.discordapp.com/attachments/894723534650220567/964692236774289458/photo-output.jpg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,Eu sou Gabriel Cardoso</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielCardosoLIma&color=blue" alt="Profile views" /> </p>
 

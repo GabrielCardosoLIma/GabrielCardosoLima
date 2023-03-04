@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋, Eu sou Gabriel Cardoso</h1>
+<h1 align="left">Olá 👋, Eu sou Gabriel Cardoso! 😄</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielCardosoLIma&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Um jovem apaixonado por tecnologia com um pouco mais de um ano de experiência. 

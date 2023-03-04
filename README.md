@@ -3,7 +3,7 @@
 
 - 🔥 Um jovem apaixonado por tecnologia com um pouco mais de um ano de experiência. 
 
-- 🔭 Em constância evolução.
+- 🔭 Em constante evolução.
 
 - ⚡ **Não é a linguagem de programação que define o programador, mas sim sua lógica. 😜**
 

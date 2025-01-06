@@ -22,10 +22,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![SQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=sqlite)&nbsp;
-<br><br>
-
-## 📱 &nbsp;Redes Sociais
-<p align="left" style="background:yellow">
-<a href="https://discord.gg/exX6rNenXq"> <img align="center" src="https://img.shields.io/badge/-Gabriel Cardoso-05122A?style=flat&logo=discord" alt="discord"/></a>
-</p>
-<img src="https://discord.c99.nl/widget/theme-4/278317055478857728.png"/>
